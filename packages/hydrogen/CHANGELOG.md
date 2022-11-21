@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.6.4
+
+### Patch Changes
+
+- Use correct defaultCartFragment in CartProvider.client.tsx This resolves an error sending Add To Cart events to Shopify Analytics ([#2332](https://github.com/Shopify/hydrogen/pull/2332)) by [@mperreux](https://github.com/mperreux)
+
 ## 1.6.3
 
 ### Patch Changes
